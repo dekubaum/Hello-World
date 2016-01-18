@@ -12,6 +12,7 @@
 		1288BA521C4D362E00FCE293 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1288BA501C4D362E00FCE293 /* Main.storyboard */; };
 		1288BA541C4D362E00FCE293 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1288BA531C4D362E00FCE293 /* Assets.xcassets */; };
 		1288BA571C4D362E00FCE293 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1288BA551C4D362E00FCE293 /* LaunchScreen.storyboard */; };
+		1288BA5F1C4D757300FCE293 /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 1288BA5E1C4D757300FCE293 /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1288BA531C4D362E00FCE293 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1288BA561C4D362E00FCE293 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1288BA581C4D362E00FCE293 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1288BA5E1C4D757300FCE293 /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1288BA4C1C4D362E00FCE293 /* AppDelegate.swift */,
 				1288BA4E1C4D362E00FCE293 /* ViewController.swift */,
+				1288BA5E1C4D757300FCE293 /* cat.png */,
 				1288BA501C4D362E00FCE293 /* Main.storyboard */,
 				1288BA531C4D362E00FCE293 /* Assets.xcassets */,
 				1288BA551C4D362E00FCE293 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 				1288BA571C4D362E00FCE293 /* LaunchScreen.storyboard in Resources */,
 				1288BA541C4D362E00FCE293 /* Assets.xcassets in Resources */,
 				1288BA521C4D362E00FCE293 /* Main.storyboard in Resources */,
+				1288BA5F1C4D757300FCE293 /* cat.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
